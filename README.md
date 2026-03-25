@@ -1,2 +1,2 @@
 # APS
-Projeto Pratico Daniel &amp; Fernando
+Projeto Pratico Daniel Victor &amp; Fernando Rufino
